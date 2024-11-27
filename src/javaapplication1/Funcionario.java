@@ -56,7 +56,7 @@ public class Funcionario {
      * aplicado será de 5%, e * para valores iguais ou maiores de 25.000,00, o
      * percentual será de 10%
      *
-     * @author Andre Luiz
+     * @author Andre Luiz Nascente Ferreira
      * @param valorVendas Double - Valor total das vendas mês
      * @return Double - Valor do resultado do cálculo conforme a faixa de
      * comissões.
